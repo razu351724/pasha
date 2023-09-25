@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/3YSsh0H/Rectangle-4284.png",
+        "donation_category": "Health",
+        "donation_title": "Clean water for children"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/ZJ6jKpC/Education.png",
+        "donation_category": "Education",
+        "donation_title": "Good education"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/7zzSV84/Rectangle-4287.png",
+        "donation_category": "Clothing",
+        "donation_title": "Used Clothing Drive"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/ScWXzx0/Food.png",
+        "donation_category": "Food",
+        "donation_title": "Better Food for Everyone"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/ScWXzx0/Food.png",
+        "donation_category": "Food",
+        "donation_title": "Better Food for Everyone"
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/7zzSV84/Rectangle-4287.png",
+        "donation_category": "Clothing",
+        "donation_title": "Used Clothing Drive"
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/ZJ6jKpC/Education.png",
+        "donation_category": "Education",
+        "donation_title": "Good education"
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co/3YSsh0H/Rectangle-4284.png",
+        "donation_category": "Health",
+        "donation_title": "Clean water for children"
+    },
+    {
+        "id": 9,
+        "img": "https://i.ibb.co/3YSsh0H/Rectangle-4284.png",
+        "donation_category": "Health",
+        "donation_title": "Clean water for children"
+    },
+    {
+        "id": 10,
+        "img": "https://i.ibb.co/ZJ6jKpC/Education.png",
+        "donation_category": "Education",
+        "donation_title": "Good education"
+    },
+    {
+        "id": 11,
+        "img": "https://i.ibb.co/7zzSV84/Rectangle-4287.png",
+        "donation_category": "Clothing",
+        "donation_title": "Used Clothing Drive"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/ScWXzx0/Food.png",
+        "donation_category": "Food",
+        "donation_title": "Better Food for Everyone"
+    }
+]
